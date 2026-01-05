@@ -48,7 +48,7 @@ python src/ingest.py
 streamlit run src/app.py
 ```
 
-## 🧠 Engineering Decisions
+## Engineering Decisions
 * **Why Offline RAG?** To comply with data privacy standards in legal tech, an "air-gapped" architecture was chosen. All inference happens on-device using quantized models.
 * **Model Selection:** Selected **Llama-3** for its superior reasoning capabilities in complex textual analysis compared to smaller models.
 * **Optimization:** Utilized **FAISS (CPU)** for vector search to reserve maximum VRAM for the Llama-3 inference engine.
