@@ -6,5 +6,7 @@ __pycache__/
 .DS_Store
 # Ignore the generated database
 faiss_index/
+*.faiss
+*.pkl
 # Ignore the data folder 
 data/
