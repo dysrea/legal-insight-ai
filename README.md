@@ -1,6 +1,13 @@
 # Legal Insight Assistant
 **An Offline RAG-based Legal Assistant powered by Llama-3 & LangChain**
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white)
+![Llama 3](https://img.shields.io/badge/Model-Llama--3-blueviolet?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/Vector_DB-FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
 ## Overview
 Legal Insight AI is a Retrieval-Augmented Generation (RAG) application designed to analyze Indian Legal Documents (IPC/BNS) and provide accurate, citation-backed answers.
 
