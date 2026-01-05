@@ -4,5 +4,7 @@ __pycache__/
 .env
 # OS junk
 .DS_Store
-# Huge data files
-data/*.pdf
+# Ignore the generated database
+faiss_index/
+# Ignore the data folder 
+data/
