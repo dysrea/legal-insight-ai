@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+# Environment variables (passwords/keys)
+.env
+# OS junk
+.DS_Store
+# Huge data files
+data/*.pdf
